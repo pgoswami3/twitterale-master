@@ -1,0 +1,33 @@
+body {
+  padding: 20px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.wordcloud {
+    height:100%;
+    width:70% !important;
+    
+    float:left !important;
+}
+
+.timeline {
+	height:100%; 
+	width:30%;
+  
+	float:right !important;
+}
+
+.btn-twitter{
+  height: 35px;
+  width: 190px;
+}
